@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal-saggar&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal-saggar" /> </p>
 
-<div class="tenor-gif-embed" data-postid="25082636" data-share-method="host" data-aspect-ratio="0.99375" data-width="100%"><a href="https://tenor.com/view/pixel-samurai-anime-gif-25082636">Pixel Samurai GIF</a>from <a href="https://tenor.com/search/pixel-gifs">Pixel GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<video src="https://tenor.com/bRpiO.gif"/>
 
 - 📫 How to reach me **prajjwalsaggar1@gmail.com**
 
