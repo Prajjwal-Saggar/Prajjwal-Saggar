@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal-saggar&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal-saggar" /> </p>
 
-<video src="https://tenor.com/bRpiO.gif"/>
-
 - 📫 How to reach me **prajjwalsaggar1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
