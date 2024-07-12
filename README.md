@@ -1,4 +1,4 @@
-ii<h1 align="center">Hi 👋, I'm Prajjwal Saggar</h1>
+<h1 align="center">Hi 👋, I'm Prajjwal Saggar</h1>
 <h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal-saggar&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal-saggar" /> </p>
@@ -32,4 +32,4 @@ ii<h1 align="center">Hi 👋, I'm Prajjwal Saggar</h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwal-saggar" alt="prajjwal-saggar" /></p>
 
-<img align="right" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400"/>
+<img align="right" src="https://giphy.com/gifs/katana-nzCDqg3pNqg7K" width="400"/>
