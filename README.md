@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwal-saggar" alt="prajjwal-saggar" /></p>
 
-<img align="right" src="https://media1.giphy.com/media/nzCDqg3pNqg7K/giphy.gif?cid=6c09b9525d3zw9ndv4k6xeaxa1fh0unwgcltru9wunkrtox5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
