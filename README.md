@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal-saggar&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal-saggar" /> </p>
 
-<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400"/>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
 
 - 📫 How to reach me **prajjwalsaggar1@gmail.com**
 
@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwal-saggar" alt="prajjwal-saggar" /></p>
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" src="https://media1.giphy.com/media/nzCDqg3pNqg7K/giphy.gif?cid=6c09b9525d3zw9ndv4k6xeaxa1fh0unwgcltru9wunkrtox5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
