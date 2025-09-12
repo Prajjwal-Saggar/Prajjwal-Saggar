@@ -7,7 +7,7 @@
 
 <h3 align="center">
   <marquee width="60%" direction="scroll" scrollamount="7">
-    🚀 MERN Developer | 🪖 Defence Aspirant | 🏆 Hackathon Winner | 🎸 Guitarist & Foodie
+    🚀 MERN Developer | 🪖 Defence Aspirant | 🏆 Hackathon Winner | 🎸 Guitarist & Foodie | 📍Chennai , India
   </marquee>
 </h3>
 
@@ -21,16 +21,6 @@
 </p>
 
 ---
-
-## 🚀 About Me
-
-- 🔭 MERN developer (3 years) building modern web apps.  
-- 🎸 Hobbies: Playing guitar, cooking.  
-- 🪖 Defence Aspirant 🇮🇳  
-- 📍 Based in Chennai, India.  
-
----
-
 ## ✨ Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prajjwal-Saggar&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
@@ -63,10 +53,12 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Prajjwal-Saggar/Prajjwal-Saggar/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://raw.githubusercontent.com/Prajjwal-Saggar/Prajjwal-Saggar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prajjwal-Saggar/Prajjwal-Saggar/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Prajjwal-Saggar/Prajjwal-Saggar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Dark"/>
+</p>
 
 ---
 
