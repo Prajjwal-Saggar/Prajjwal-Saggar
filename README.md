@@ -1,35 +1,87 @@
-<h1 align="center">Hi 👋, I'm Prajjwal Saggar</h1>
-<h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
+<h1 align="center">Hey there, I'm Prajjwal 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal-saggar&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal-saggar" /> </p>
-
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
-
-- 📫 How to reach me **prajjwalsaggar1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prajjwalsaggar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajjwalsaggar1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prajjwal saggar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajjwal saggar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ5bHI0M2prY2ZsY292a2gxbzFnMXB0NWV6bXcxdDh3OGd6NGR3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MFD0YqocHq1HoRZnBi/giphy.gif" width="350"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh5amx3enhvYjE3Zm9lNnB4aW82ZGY3N2p2NGl1MHJxZjRuMGpocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BBm6mdY7d0cEjW8rqr/giphy.gif" width="350"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<h3 align="center">
+  <marquee width="60%" direction="scroll" scrollamount="7">
+    🚀 MERN Developer | 🪖 Defence Aspirant | 🏆 Hackathon Winner | 🎸 Guitarist & Foodie
+  </marquee>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/Prajjwal-Saggar">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Prajjwal-Saggar&color=brightgreen">
+  </a>
+  <a href="https://github.com/Prajjwal-Saggar">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Prajjwal-Saggar.Prajjwal-Saggar">
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajjwal-saggar&show_icons=true&locale=en&layout=compact" alt="prajjwal-saggar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajjwal-saggar&show_icons=true&locale=en" alt="prajjwal-saggar" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwal-saggar" alt="prajjwal-saggar" /></p>
+- 🔭 MERN developer (3 years) building modern web apps.  
+- 🎸 Hobbies: Playing guitar, cooking.  
+- 🪖 Defence Aspirant 🇮🇳  
+- 📍 Based in Chennai, India.  
 
-<img align="right" src="https://media1.giphy.com/media/nzCDqg3pNqg7K/giphy.gif?cid=6c09b9525d3zw9ndv4k6xeaxa1fh0unwgcltru9wunkrtox5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
+---
+
+## ✨ Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prajjwal-Saggar&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 🥇 **1st Place** — Algo Connect (NexEV Internship)  
+- 🥉 **3rd Place** — Innovate X Impact  
+- 🥉 **3rd Place** — CodeZilla  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**: React, HTML, CSS, Tailwind, JavaScript  
+**Backend**: Node.js, Express, Firebase  
+**Database**: MongoDB, PostgreSQL  
+**Tools**: Git, GitHub Actions, VSCode, Postman, Figma  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajjwal-Saggar&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjwal-Saggar&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajjwal-Saggar&theme=dark&date_format=%5BY%20%5DM%20j" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Prajjwal-Saggar/Prajjwal-Saggar/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
+![GitHub Snake Dark](https://raw.githubusercontent.com/Prajjwal-Saggar/Prajjwal-Saggar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajjwal-saggar-b06b09316/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://portfolio-lime-nine-10.vercel.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">⭐ If you like my work, consider giving a star on repositories and following me!</p>
