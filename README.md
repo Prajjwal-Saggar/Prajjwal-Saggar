@@ -7,7 +7,7 @@
 
 <h3 align="center">
   <marquee width="60%" direction="scroll" scrollamount="7">
-    🚀 MERN Developer | 🪖 Defence Aspirant | 🏆 Hackathon Winner | 🎸 Guitarist & Foodie | 📍Chennai , India
+    🚀 MERN | 🪖 Defence Aspirant | 🏆 Hackathon Winner | 🎸 Guitarist & Foodie | 📍Chennai , India
   </marquee>
 </h3>
 
