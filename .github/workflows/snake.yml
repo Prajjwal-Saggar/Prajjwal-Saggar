@@ -1,0 +1,47 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:        # allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake images
+        uses: Platane/snk@v3
+        with:
+          github_user_name: 'Prajjwal-Saggar'
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      - name: Push generated images to output branch
+        run: |
+          # Configure git
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Create an orphan branch named 'output' (cleans previous content)
+          git checkout --orphan output || git switch output
+
+          # Remove all files from this branch index (do not delete local working files)
+          git rm -rf . || true
+
+          # Copy generated files from dist into branch root
+          cp -R dist/* .
+
+          # Commit and push (force replace the output branch each run)
+          git add .
+          git commit -m "chore: update contribution snake [skip ci]" || echo "No changes to commit"
+          git push --force origin output
