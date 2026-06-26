@@ -21,7 +21,7 @@
 
 ```yaml
 name: Prajjwal Saggar
-location:Chennai, India
+location: Chennai, India
 current_project: ContractIQ
 learning: [SpringBoot, Docker, Redis]
 looking_for: Open source collaborations
