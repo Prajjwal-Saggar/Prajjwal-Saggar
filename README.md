@@ -1,115 +1,146 @@
 <div align="center">
 
-```
- ____                  _    _                   _ 
-|  _ \  _ __   __ _   (_)  (_)__      __  __ _ | |
-| |_) || '__| / _` |  | |  | |\ \ /\ / / / _` || |
-|  __/ | |   | (_| |  | |  | | \ V  V / | (_| || |
-|_|    |_|    \__,_| _/ | _/ |  \_/\_/   \__,_||_|
-                    |__/ |__/                     
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=A6E3A1&center=true&vCenter=true&width=600&lines=root%40prajjwal%3A~%24+whoami;Full-Stack+Developer;MERN+%2B+Spring+Boot+%2B+Docker;Building+ContractIQ+%F0%9F%9A%80;sudo+apt+install+coffee" alt="Typing SVG" />
 
-### `> building things that run everywhere (except prod)`
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Spring+Boot+%7C+Docker;Open+Source+Contributor+%F0%9F%8C%B1;Always+learning%2C+always+building)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Prajjwal%20Saggar&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=building%20things%20that%20run%20everywhere%20(except%20prod)&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## `whoami`
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+```bash
+┌─[prajjwal@ubuntu]─[~]
+└──╼ $ neofetch
+```
 
 ```yaml
-name: Prajjwal Saggar
-location: Chennai, India
-current_project: ContractIQ
-learning: [SpringBoot, Docker, Redis]
-looking_for: Open source collaborations
-fun_fact: Cooking is my debugging reset
-contact: prajjwalsaggar1@gmail.com
+OS:         Ubuntu 24.04 LTS x86_64
+Host:       ContractIQ Workstation
+Shell:      zsh + oh-my-zsh
+Location:   Chennai, India 🇮🇳
+Editor:     Neovim / VS Code
+Uptime:     4+ years shipping code
+Currently:  ContractIQ
+Learning:   [Spring Boot, Docker, Redis]
+Seeking:    Open source collabs
+Debug tool: Cooking 🍳 (best reset button)
+Contact:    prajjwalsaggar1@gmail.com
 ```
 
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prajjwal-Saggar&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=A6E3A1&icon_color=A6E3A1&text_color=CDD6F4&rank_icon=github" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajjwal-Saggar&theme=catppuccin-mocha&hide_border=true&background=00000000&ring=A6E3A1&fire=F9E2AF&currStreakLabel=A6E3A1" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjwal-Saggar&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=A6E3A1&text_color=CDD6F4" width="48%"/>
+</div>
+
 ---
 
-## `~/skills`
+<div align="center">
+<h3>~/skills $ cat stack.json</h3>
+</div>
+
+<div align="center">
 
 **Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-1e1e2e?style=for-the-badge&logo=c&logoColor=A8B9CC)
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<br/>
+![React](https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1e1e2e?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-1e1e2e?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-1e1e2e?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![SASS](https://img.shields.io/badge/SASS-1e1e2e?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1e2e?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
 **Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1e1e2e?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1e1e2e?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 
 **Databases**
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-1e1e2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-1e1e2e?style=for-the-badge&logo=redis&logoColor=DC382D)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
----
-
-## `~/stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Prajjwal-Saggar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjwal-Saggar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" />
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prajjwal-Saggar&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prajjwal-Saggar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+**DevOps, Tools & OS**
+<br/>
+![Docker](https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Jenkins](https://img.shields.io/badge/Jenkins-1e1e2e?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Ubuntu-1e1e2e?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Firebase](https://img.shields.io/badge/Firebase-1e1e2e?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Figma](https://img.shields.io/badge/Figma-1e1e2e?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-1e1e2e?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1e1e2e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Selenium](https://img.shields.io/badge/Selenium-1e1e2e?style=for-the-badge&logo=selenium&logoColor=43B02A)
 
 </div>
 
 ---
 
-## `~/connect`
+<details>
+<summary>🖥️ <b>~/dotfiles $ cat setup.conf</b></summary>
+<br/>
 
-<div align="center">
+```ini
+[environment]
+distro      = Ubuntu 24.04 LTS
+wm          = GNOME / i3
+terminal    = Alacritty + tmux
+shell       = zsh + starship prompt
+editor      = Neovim (lua config)
+font        = JetBrainsMono Nerd Font
+package_mgr = apt + snap
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajjwal-Saggar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=codepen&logoColor=white)](https://codolio.com/profile/prajjwal_saggar)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1go4zmbTZUt7M2SBMOaXuG1MzbjFGkMT5/view?usp=drive_link)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajjwalsaggar1@gmail.com)
+</details>
 
-</div>
+<details>
+<summary>📊 <b>~/activity $ ./contribution_graph.sh</b></summary>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajjwal-Saggar&theme=react-dark&bg_color=00000000&color=A6E3A1&line=A6E3A1&point=F9E2AF&hide_border=true" width="100%"/>
+
+</details>
 
 ---
 
 <div align="center">
+<h3>~/connect $ ./reach_me.sh</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=Prajjwal-Saggar&style=flat-square&color=6366f1&label=profile+views)
+[![GitHub](https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajjwal-Saggar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e1e2e?style=for-the-badge&logo=codepen&logoColor=6366F1)](https://codolio.com/profile/prajjwal_saggar)
+[![Resume](https://img.shields.io/badge/Resume-1e1e2e?style=for-the-badge&logo=googledrive&logoColor=4285F4)](https://drive.google.com/file/d/1go4zmbTZUt7M2SBMOaXuG1MzbjFGkMT5/view?usp=drive_link)
+[![Email](https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:prajjwalsaggar1@gmail.com)
 
-*`// works on my machine ¯\_(ツ)_/¯`*
+<br/><br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=Prajjwal-Saggar&style=for-the-badge&color=1e1e2e&label=PROFILE+VIEWS)
+
+<sub>`// exit 0 — works on my machine ¯\_(ツ)_/¯`</sub>
 
 </div>
