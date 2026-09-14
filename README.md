@@ -36,16 +36,11 @@ Contact:    prajjwalsaggar1@gmail.com
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prajjwal-Saggar&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=A6E3A1&icon_color=A6E3A1&text_color=CDD6F4&rank_icon=github" width="100%"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd212Mno3NTVzanFrYmd5NXhvdHFoc2ZxamNmZzlhMm94N3FoZWp1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rAmtvwCQRhNHa/giphy.gif" width="100%" style="border-radius:8px;"/>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajjwal-Saggar&theme=catppuccin-mocha&hide_border=true&background=00000000&ring=A6E3A1&fire=F9E2AF&currStreakLabel=A6E3A1" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjwal-Saggar&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=00000000&title_color=A6E3A1&text_color=CDD6F4" width="48%"/>
-</div>
 
 ---
 
@@ -123,7 +118,7 @@ package_mgr = apt + snap
 <summary>📊 <b>~/activity $ ./contribution_graph.sh</b></summary>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajjwal-Saggar&theme=react-dark&bg_color=00000000&color=A6E3A1&line=A6E3A1&point=F9E2AF&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/A6E3A1/Prajjwal-Saggar" alt="Prajjwal's Github chart" width="100%"/>
 
 </details>
 
